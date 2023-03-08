@@ -1,0 +1,25 @@
+library that i used:
+├── @discordjs/rest@1.5.0
+├── @discordjs/voice@0.14.0
+├── @keyv/etcd@1.1.2
+├── @keyv/mongo@2.1.8
+├── @keyv/mysql@1.5.0
+├── @keyv/postgres@1.4.0
+├── @keyv/redis@2.5.3
+├── @keyv/sqlite@3.6.2
+├── @pipedream/platform@1.3.0
+├── axios@1.3.3
+├── canvas@2.11.0
+├── chatgpt@5.0.6
+├── discord.js-music-v11@1.3.4
+├── discord.js@13.13.1
+├── dotenv@16.0.3
+├── eris@0.17.1
+├── keyv@4.5.2
+├── njwt@2.0.0
+├── openai-api@1.3.1
+├── openai-sdk@1.0.1
+├── openai@3.1.0
+├── request@2.88.2
+├── ytdl-core-discord@1.3.1
+└── ytdl-core@4.11.2
