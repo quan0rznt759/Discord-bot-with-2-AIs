@@ -18,3 +18,4 @@
 - openai-sdk@1.0.1
 - openai@3.1.0
 - request@2.88.2
+![image](https://user-images.githubusercontent.com/96670370/223936872-e6344b55-2577-476f-9ce1-b201c9a21d73.png)
