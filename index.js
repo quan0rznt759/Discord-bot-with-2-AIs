@@ -37,21 +37,4 @@ client.on('messageDelete', function (message) {
   }
 });
 
-
-client.on('messageCreate', async function (message) {
-  if (message.author.bot) return;
-
-  if(message.content.startsWith('hi') || message.content.startsWith('hello') || message.content.startsWith('chào') || message.content.startsWith('hj')){
-    message.channel.send("<:t_:1054249182510207026> ✌️");
-    return;
-  }
-
-  if (message.content.toLowerCase().includes('<@814668739664412703>') || message.content.toLowerCase().includes('quân') || message.content.toLowerCase().includes('quan')){
-    message.reply("<:t_:1054249182510207026> :knife:");
-    return;
-  }
-  
-  // console.log(message.content);
-});
-
 client.login(process.env.TOKEN);
